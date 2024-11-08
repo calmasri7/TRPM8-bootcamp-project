@@ -37,10 +37,10 @@ This directory contains files and scripts used for initial data preprocessing.
     - Standardize IC50 data
 
 - **TRPM8-homosapien-compounds-activities.csv**:
-  - **Description**: Input activity data file from Chembl.
+  - Input activity data file from Chembl.
 
 - **TRPM8-homosapien-compounds-activities-processed.csv**:
-  - **Description**: Output data file after processing in `preprocess.ipynb`.
+  - Output data file after processing in `preprocess.ipynb`.
 
 ---
 
@@ -48,16 +48,16 @@ This directory contains files and scripts used for initial data preprocessing.
 This directory contains scripts for extracting various types of molecular descriptors.
 
 - **3D-descriptors.ipynb**:
-  - **Description**: Extracts 3D descriptors from the processed data.
+  - Extracts 3D descriptors from the processed data.
 
 - **physicochemical-descriptors.ipynb**:
-  - **Description**: Extracts physicochemical descriptors.
+  - Extracts physicochemical descriptors.
 
 - **quantum-descriptors.ipynb**:
-  - **Description**: Extracts quantum descriptors.
+  - Extracts quantum descriptors.
 
 - **topological-descriptors.ipynb**:
-  - **Description**: Extracts 2D topological descriptors.
+  - Extracts 2D topological descriptors.
 
 - **Outputs**:
   - Files named `[descriptor_name]-descriptors.csv` for raw descriptor data.
@@ -69,10 +69,10 @@ This directory contains scripts for extracting various types of molecular descri
 This directory contains files related to the train-test split process.
 
 - **descriptors_all.csv**:
-  - **Description**: Combined descriptor data from the `2_descriptors` directory.
+  - Combined descriptor data from the `2_descriptors` directory.
 
 - **train_test_stratify.ipynb**:
-  - **Description**: Splits the combined descriptor data into training and testing datasets with the following proportions:
+  - Splits the combined descriptor data into training and testing datasets with the following proportions:
     - **Training Set**: 85% of the data
     - **Test Set**: 15% of the data
     - **Train/Validation Split**: 90%/10% for 5-fold cross-validation
