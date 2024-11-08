@@ -5,7 +5,7 @@
 This repository contains three main directories:
 
 ```
-project-root/
+BreadcrumbsTRPM8-bootcamp-project/
 ├─1_preprocess/
 │   ├─ preprocess.ipynb
 │   ├─ TRPM8-homosapien-compounds-activities.csv
