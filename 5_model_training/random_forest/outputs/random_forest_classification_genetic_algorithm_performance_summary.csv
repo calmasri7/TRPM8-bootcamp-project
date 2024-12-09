@@ -1,0 +1,2 @@
+model_type,problem_type,input_type,accuracy,precision,recall,f1_score
+random_forest,classification,genetic_algorithm,0.8080808080808081,0.8030519094690217,0.8080808080808081,0.8040239388708917

@@ -1,0 +1,2 @@
+model_type,problem_type,input_type,accuracy,precision,recall,f1_score
+random_forest,classification,PCA,0.8015267175572519,0.7885712738887988,0.8015267175572519,0.7912313708722937

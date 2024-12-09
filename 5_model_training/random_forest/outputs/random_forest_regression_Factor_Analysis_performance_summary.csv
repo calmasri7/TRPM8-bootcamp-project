@@ -1,0 +1,2 @@
+model_type,problem_type,input_type,mse,r2_score,pearson_corr
+random_forest,regression,Factor_Analysis,3.572296932225368,0.6090226079829083,0.7805909424400309

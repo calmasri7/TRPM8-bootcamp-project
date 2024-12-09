@@ -1,0 +1,2 @@
+model_type,problem_type,input_type,accuracy,precision,recall,f1_score
+random_forest,classification,random_forest_elimination,0.7938931297709924,0.765727963724147,0.7938931297709924,0.7750683528440687
